@@ -1,15 +1,15 @@
 const baseLinks = {
-    up1: "https://www.pagamentos-seguro.link/checkout/cda3b34d-9862-48ea-9e9b-0e5eef9ffef8", // IOF
-    up2: "https://www.pagamentos-seguro.link/checkout/a1f06c66-fb22-47ed-9e4b-603f04444d37", // Taxa de verificação de IOF
-    up3: "https://www.pagamentos-seguro.link/checkout/8715e295-b95c-46fb-af36-531ccb08efb5", // Seguro Prestamista "tarifa de cadastro"
-    up4: "https://www.pagamentos-seguro.link/checkout/0402fd3d-1989-498a-83ac-68c8f5dc767b", // NFe
-    up5: "https://www.pagamentos-seguro.link/checkout/cdb0036d-32a9-49ce-8dc7-13fb0f230f17", // Ativar conta
-    up6: "https://www.pagamentos-seguro.link/checkout/9981abc2-0e82-4aeb-aa0a-7d720a808289", // Taxa de registro do contrato
-    up7: "https://www.pagamentos-seguro.link/checkout/b94998ab-2ad0-47dc-b70c-b4a6bbcdee61", // Parabéns, 20k adicional
-    up8: "https://www.pagamentos-seguro.link/checkout/6ef7f47a-7cc1-46d9-a017-44f39a8e76b3", // Erro no pagamento - 14,06
-    up9: "https://www.pagamentos-seguro.link/checkout/94e05411-2639-4cdf-ada2-503f0c69e882", // APP - 11,99
-    up10:"https://www.pagamentos-seguro.link/checkout/e513d622-340b-481b-9a66-c281f7fbe3df", // Taxa de Abertura TAC - 16,92
-    up11:"https://www.pagamentos-seguro.link/checkout/e572370f-a9da-4b80-8dd2-42486f9c7be3", // Taxa de Consultoria Financeira - 19,53
+    up1: "https://pay.transacaoseguraemprestimo.online/c/998b85f8-7660-40d4-8f05-13bd1d38e2ee", // IOF
+    up2: "https://pay.transacaoseguraemprestimo.online/c/9fe92b6c-60f0-43fc-badd-1a41c7ab913c", // Taxa de verificação de IOF
+    up3: "https://pay.transacaoseguraemprestimo.online/c/4312fc78-7447-4533-b653-9affad005d30", // Seguro Prestamista "tarifa de cadastro"
+    up4: "https://pay.transacaoseguraemprestimo.online/c/1dd7cf85-7672-4a90-adf7-fc0515f4f923", // NFe
+    up5: "https://pay.transacaoseguraemprestimo.online/c/e35c4c6d-c4a7-4228-81a0-90ea5b27e28c", // Ativar conta
+    up6: "https://pay.transacaoseguraemprestimo.online/c/8dd0a491-4ffd-4918-9981-3832fc05c0b8", // Taxa de registro do contrato
+    up7: "https://pay.transacaoseguraemprestimo.online/c/e5f7d985-cbb4-4086-8184-608c46ef626a", // Parabéns, 20k adicional
+    up8: "https://pay.transacaoseguraemprestimo.online/c/c65f5f3d-8662-421e-a0d7-df3714f443cb", // Erro no pagamento - 14,06
+    up9: "https://pay.transacaoseguraemprestimo.online/c/b96e4ba6-b55b-4266-8158-56ef796c165a", // APP - 11,99
+    up10:"https://pay.transacaoseguraemprestimo.online/c/552e52ff-4af0-4974-9997-ef5eb6d1b8d9", // Taxa de Abertura TAC - 16,92
+    up11:"https://pay.transacaoseguraemprestimo.online/c/c10db266-27c0-464e-8f20-ede606b1c855", // Taxa de Consultoria Financeira - 19,53
     up12:"https://pay.paguefinal.space/c/b0169469-cebc-43af-8ef4-076055e8b716" // Taxa de Processamento Administrativo - 31,92
 
 };
